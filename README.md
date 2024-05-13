@@ -47,11 +47,11 @@
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
 </div> 
-[![An image of @sujnan33's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sujnan33)](https://holopin.io/@sujnan33)
+
 
 
 <br clear="both">
 
-
+[![An image of @sujnan33's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sujnan33)](https://holopin.io/@sujnan33)
 
 
